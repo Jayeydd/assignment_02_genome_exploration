@@ -49,7 +49,7 @@ To describe the structure and quality of a genome assembly using bioinformatic t
 ​- Re-ran *gfastats* (same settings as Part 2) using input file: **6: Hipposideros_armiger_filtered_10kb**
 ​- Output renamed to: **Hipposideros_armiger_Filtered_10kb_Assembly_Statistics_gfastats**
 
-Part 5 — Small ORF Exploration
+# Part 5 — Small ORF Exploration
 # Step 1: 
 - Tool: Filter Sequence by length
 - Input file: **1: Hipposideros_armiger_genome_original.fna.gz**
